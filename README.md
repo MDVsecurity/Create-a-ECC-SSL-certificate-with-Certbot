@@ -63,8 +63,6 @@ if you add `--manual-public-ip-logging-ok` to your code possible you `can't` cre
 \
 <tab>
 ---
-\
-\
 ## **Part.2 Coming soon...**
 
 *The easiest way to me is do it with acme-challenge.*
