@@ -1,3 +1,5 @@
+## <font color="#512DA8"> **Part.2 Coming soon...**</font>
+
 # How to Generate a ECC - SSL Certificate with Certbot.
 
 ### Note this is only for ACME-Challenge
@@ -35,8 +37,10 @@ Once you install the library, let's start...
 
 \
 <tab>
-**Beware Here**
+<font color="#E91E63"> **Beware Here**</font>
 if you add `--manual-public-ip-logging-ok` to your code possible you `can't` create more SSL certificates
+\
+<tab>
 
 4. The `--agree-tos` flag indicates that you agree to the terms of service for Let's Encrypt. The `--manual-public-ip-logging-ok` flag allows Let's Encrypt to log your public IP address for the purposes of detecting abuse.
 
@@ -63,9 +67,8 @@ if you add `--manual-public-ip-logging-ok` to your code possible you `can't` cre
 \
 <tab>
 ---
-## **Part.2 Coming soon...**
 
 *The easiest way to me is do it with acme-challenge.*
 
 ## And That's all! for now! 👌
-Made with ❤️ to Everyone.
+Made with <font color="#EB144C"> **❤️**</font> to Everyone.
